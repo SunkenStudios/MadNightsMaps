@@ -1,0 +1,22 @@
+{
+	"fogColor": [0,0,0],
+	"fogStart": 0,
+	"fogEnd": 80,
+
+	"ambientColor": [0,0,0],
+	"sunColor": [30,30,30],
+
+	"speedMultiplier": 0.4,
+	"gravityMultiplier": 0.7,
+	"jumpMultiplier": 0.7,
+
+	"textureFiltering": true,
+	"disablePlayerLamp": false,
+
+	"farclipPlane": 80,
+	"deathPlane": -90,
+	
+	"roundTime": 200,
+
+	"footstepType": "wood"
+}
