@@ -9,6 +9,7 @@
 	"speedMultiplier": 0.4,
 	"gravityMultiplier": 0.7,
 	"jumpMultiplier": 0.7,
+	"frictionMultiplier": 1.0,
 
 	"textureFiltering": true,
 	"disablePlayerLamp": false,
