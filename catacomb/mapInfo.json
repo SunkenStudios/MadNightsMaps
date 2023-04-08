@@ -3,8 +3,8 @@
 	"fogStart": 999,
 	"fogEnd": 1000,
 
-	"ambientColor": [0,0,0],
-	"sunColor": [80,80,90],
+	"ambientColor": [127,127,127],
+	"sunColor": [0,0,0],
 
 	"speedMultiplier": 1.0,
 	"gravityMultiplier": 1.0,
@@ -12,7 +12,7 @@
 	"frictionMultiplier": 1.0,
 
 	"textureFiltering": false,
-	"disablePlayerLamp": false,
+	"disablePlayerLamp": true,
 
 	"farclipPlane": 2000,
 	"deathPlane": -25,
