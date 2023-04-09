@@ -14,7 +14,7 @@
 	"textureFiltering": false,
 	"disablePlayerLamp": false,
 
-	"farclipPlane": 2000,
+	"farclipPlane": 500,
 	"deathPlane": -25,
 	
 	"roundTime": 250,
