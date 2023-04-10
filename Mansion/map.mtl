@@ -9,7 +9,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd BarbedWire_alpha.png
+map_Kd BarbedWire_alphaharsh.png
 
 newmtl BasementFloor
 Ns 96.078415
@@ -399,7 +399,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd tree_alpha.png
+map_Kd tree_alphaharsh.png
 
 newmtl Tunna.001
 Ns 198.039215
