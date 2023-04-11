@@ -6,9 +6,9 @@
 	"ambientColor": [200,200,200],
 	"sunColor": [200,200,200],
 
-	"speedMultiplier": 1.5,
-	"gravityMultiplier": 1.15,
-	"jumpMultiplier": 1.5,
+	"speedMultiplier": 1.0,
+	"gravityMultiplier": 1.0,
+	"jumpMultiplier": 1.2,
 	"frictionMultiplier": 1.0,
 
 	"textureFiltering": false,
