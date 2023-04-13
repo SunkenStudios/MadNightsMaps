@@ -1,0 +1,1147 @@
+{
+	"Spleef1":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef2":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef3":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef4":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef5":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef6":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef7":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef8":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef9":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+
+	"Spleef11":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef21":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef31":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef41":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef51":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef61":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef71":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef81":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef91":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [34,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef12":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef22":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef32":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef42":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef52":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef62":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef72":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef82":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef92":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [68,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef13":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef23":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef33":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef43":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef53":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef63":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef73":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef83":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef93":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [102,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef14":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef24":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef34":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef44":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef54":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef64":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef74":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef84":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef94":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [136,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef15":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef25":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef35":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef45":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef55":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef65":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef75":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef85":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef95":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [170,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef16":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef26":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef36":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef46":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef56":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef66":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef76":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef86":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef96":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [204,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef17":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef27":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef37":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef47":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef57":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef67":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef77":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef87":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef97":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [238,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},		
+
+	"Spleef18":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+		"Spleef28":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,34],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef38":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,68],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef48":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,102],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef58":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,136],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef68":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,170],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef78":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,204],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef88":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,238],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	},
+	"Spleef98":
+	{
+		"meshName" : "spleef.obj",
+		"useCollision" : true,
+		"positionOffset" : [272,0,272],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : true,
+		"doorUpHeight" : 178.0,
+		"doorReturnTime" : 99999999.0,
+		"doorSpeed" : 178.0,
+		"doorSound" : "hit_hard3.wav"
+	}		
+
+
+}
