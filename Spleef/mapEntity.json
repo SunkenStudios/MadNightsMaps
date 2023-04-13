@@ -8,9 +8,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef2":
@@ -22,9 +22,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef3":
@@ -36,9 +36,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef4":
@@ -50,9 +50,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef5":
@@ -64,9 +64,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef6":
@@ -78,9 +78,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef7":
@@ -92,9 +92,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef8":
@@ -106,9 +106,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef9":
@@ -120,9 +120,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -136,9 +136,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef21":
@@ -150,9 +150,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef31":
@@ -164,9 +164,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef41":
@@ -178,9 +178,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef51":
@@ -192,9 +192,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef61":
@@ -206,9 +206,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef71":
@@ -220,9 +220,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef81":
@@ -234,9 +234,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef91":
@@ -248,9 +248,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -263,9 +263,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef22":
@@ -277,9 +277,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef32":
@@ -291,9 +291,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef42":
@@ -305,9 +305,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef52":
@@ -319,9 +319,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef62":
@@ -333,9 +333,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef72":
@@ -347,9 +347,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef82":
@@ -361,9 +361,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef92":
@@ -375,9 +375,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -390,9 +390,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef23":
@@ -404,9 +404,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef33":
@@ -418,9 +418,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef43":
@@ -432,9 +432,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef53":
@@ -446,9 +446,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef63":
@@ -460,9 +460,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef73":
@@ -474,9 +474,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef83":
@@ -488,9 +488,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef93":
@@ -502,9 +502,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -517,9 +517,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef24":
@@ -531,9 +531,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef34":
@@ -545,9 +545,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef44":
@@ -559,9 +559,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef54":
@@ -573,9 +573,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef64":
@@ -587,9 +587,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef74":
@@ -601,9 +601,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef84":
@@ -615,9 +615,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef94":
@@ -629,9 +629,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -644,9 +644,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef25":
@@ -658,9 +658,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef35":
@@ -672,9 +672,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef45":
@@ -686,9 +686,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef55":
@@ -700,9 +700,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef65":
@@ -714,9 +714,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef75":
@@ -728,9 +728,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef85":
@@ -742,9 +742,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef95":
@@ -756,9 +756,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -771,9 +771,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef26":
@@ -785,9 +785,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef36":
@@ -799,9 +799,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef46":
@@ -813,9 +813,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef56":
@@ -827,9 +827,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef66":
@@ -841,9 +841,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef76":
@@ -855,9 +855,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef86":
@@ -869,9 +869,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef96":
@@ -883,9 +883,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -898,9 +898,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef27":
@@ -912,9 +912,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef37":
@@ -926,9 +926,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef47":
@@ -940,9 +940,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef57":
@@ -954,9 +954,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef67":
@@ -968,9 +968,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef77":
@@ -982,9 +982,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef87":
@@ -996,9 +996,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef97":
@@ -1010,9 +1010,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},		
 
@@ -1025,9 +1025,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 		"Spleef28":
@@ -1039,9 +1039,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef38":
@@ -1053,9 +1053,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef48":
@@ -1067,9 +1067,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef58":
@@ -1081,9 +1081,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef68":
@@ -1095,9 +1095,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef78":
@@ -1109,9 +1109,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef88":
@@ -1123,9 +1123,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	},
 	"Spleef98":
@@ -1137,9 +1137,9 @@
 		"conveyorDirection" : 0,
 		"bounceForce" : 0,
 		"door" : true,
-		"doorUpHeight" : 178.0,
+		"doorUpHeight" : -278.0,
 		"doorReturnTime" : 99999999.0,
-		"doorSpeed" : 178.0,
+		"doorSpeed" : 12.0,
 		"doorSound" : "hit_hard3.wav"
 	}		
 
