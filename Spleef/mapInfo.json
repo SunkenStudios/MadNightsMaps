@@ -25,5 +25,5 @@
 	"waterEnabled": true,
 	"waterLevel": -242,
 	
-	"outsideMap": true
+	"outsideMap": false
 }
