@@ -17,7 +17,7 @@
 	"farclipPlane": 2000,
 	"deathPlane": -25,
 	
-	"roundTime": 100,
+	"roundTime": 230,
 	
 	"footstepType": "dirt",
 	"soundSource": [-13,3,17.5],
