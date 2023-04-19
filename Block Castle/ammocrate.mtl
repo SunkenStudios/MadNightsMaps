@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd red_block3d.png
+map_Kd red_block3d_backface.png
 
 newmtl Red_Brick_red_brick.png.001
 Ns 96.078431
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd red_brick.png
+map_Kd red_brick_backface.png
 
 newmtl Red_Side
 Ns 96.078431
@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd red_block3d.png
+map_Kd red_block3d_backface.png
 
 newmtl Yellow_Brick
 Ns 96.078431
@@ -43,4 +43,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd yellow_block3d.png
+map_Kd yellow_block3d_backface.png
