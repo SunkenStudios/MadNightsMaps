@@ -1,5 +1,5 @@
 # Blender MTL File: 'map.blend'
-# Material Count: 12
+# Material Count: 11
 
 newmtl Blue_Brick
 Ns 96.078431
@@ -22,17 +22,6 @@ Ni 1.000000
 d 1.000000
 illum 1
 map_Kd blue_block3d_backface.png
-
-newmtl Collision
-Ns 96.078431
-Ka 1.000000 1.000000 1.000000
-Kd 0.640000 0.640000 0.640000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd entity\\Wall.png
 
 newmtl Fence
 Ns 96.078431

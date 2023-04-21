@@ -106,5 +106,23 @@
 		"deadly" : false,
 		"buttonLink" : "",
 		"cantUse": true
+	},
+	"kill":
+	{
+		"meshName" : "kill.obj",
+		"useCollision" : true,
+		"positionOffset" : [0,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : false,
+		"doorUpHeight" : 0,
+		"doorReturnTime" : 2.0,
+		"doorSpeed" : 0.4,
+		"doorSound" : "",
+		"dontPullFall" : false,
+		"deadly" : true,
+		"buttonLink" : "",
+		"cantUse": true
 	}
 }

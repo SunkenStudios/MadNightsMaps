@@ -10,9 +10,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd red_block3d_backface.png
+map_Kd ..\..\map\MadNightsMaps-main\Nacht die Blocke\red_brick.png
 
-newmtl Red_Brick_red_brick.png.001
+newmtl Red_Brick_red_block3d.png.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd red_brick_backface.png
+map_Kd ..\..\map\MadNightsMaps-main\Nacht die Blocke\red_block3d.png
 
 newmtl Red_Side
 Ns 96.078431
@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd red_block3d_backface.png
+map_Kd ..\..\map\MadNightsMaps-main\Nacht die Blocke\red_block3d.png
 
 newmtl Yellow_Brick
 Ns 96.078431
@@ -43,4 +43,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd yellow_block3d_backface.png
+map_Kd ..\..\map\MadNightsMaps-main\Nacht die Blocke\yellow_block3d.png

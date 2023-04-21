@@ -1,7 +1,7 @@
 # Blender MTL File: 'map.blend'
-# Material Count: 7
+# Material Count: 8
 
-newmtl Blue_Side
+newmtl Blue_Side.001
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.640000 0.640000 0.640000
@@ -22,6 +22,17 @@ Ni 1.000000
 d 1.000000
 illum 1
 map_Kd green_block3d_backface.png
+
+newmtl Nothing
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd nothing_alpha.png
 
 newmtl Red_Brick
 Ns 96.078431
