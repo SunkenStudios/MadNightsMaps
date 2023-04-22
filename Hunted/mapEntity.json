@@ -1,0 +1,23 @@
+{
+	"rotator":
+	{
+		"meshName" : "rotate.obj",
+		"useCollision" : false,
+		"positionOffset" : [0,0,0],
+		"conveyorForce" : 0,
+		"conveyorDirection" : 0,
+		"bounceForce" : 0,
+		"door" : false,
+		"doorUpHeight" : 109.0,
+		"doorReturnTime" : 999999999.0,
+		"doorSpeed" : 1.0,
+		"doorSound" : "default_move.wav",
+		"dontPullFall" : false,
+		"deadly" : false,
+		"buttonLink" : "",
+		"cantUse" : false,
+		"footstepSound" : "",
+		"rotator" : true,
+		"rotateSpeed" : 0.001
+	}
+}
