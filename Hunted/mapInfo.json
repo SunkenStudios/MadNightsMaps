@@ -1,5 +1,5 @@
 {
-	"fogColor": [112,143,181],
+	"fogColor": [ 112,143,181],
 	"fogStart": 110,
 	"fogEnd": 1300,
 
@@ -20,7 +20,7 @@
 	"roundTime": 1000,
 	
 	"footstepType": "concrete",
-	"soundSource": [0,0,0],
+	"soundSource": [21,-12,-7],
 
 	"waterEnabled": true,
 	"waterLevel": -97,
