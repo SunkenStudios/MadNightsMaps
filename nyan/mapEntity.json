@@ -1,10 +1,10 @@
 {
 	"rotator":
 	{
-		"meshName" : "rotator.obj",
+		"meshName" : "rainbow.obj",
 		"useCollision" : true,
 		"positionOffset" : [0,0,0],
 		"rotator" : true,
-		"rotateSpeed" : 2.0
+		"rotateSpeed" : 0.1
 	}
 }
