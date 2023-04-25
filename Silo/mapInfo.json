@@ -6,7 +6,7 @@
 	"ambientColor": [45,5,1],
 	"sunColor": [90,90,90],
 
-	"speedMultiplier": 2.0,
+	"speedMultiplier": 1.3,
 	"gravityMultiplier": 1.0,
 	"jumpMultiplier": 1.0,
 	"frictionMultiplier": 1.0,
@@ -17,7 +17,7 @@
 	"farclipPlane": 2000,
 	"deathPlane": -100,
 	
-	"roundTime": 666,
+	"roundTime": 230,
 	
 	"footstepType": "dirt",
 	"soundSource": [0,0,0],
