@@ -6,10 +6,10 @@
 	"ambientColor": [0,0,0],
 	"sunColor": [200,200,200],
 
-	"speedMultiplier": 1.6,
+	"speedMultiplier": 4.0,
 	"gravityMultiplier": 2.0,
-	"jumpMultiplier": 2.0,
-	"frictionMultiplier": 10.0,
+	"jumpMultiplier": 3.0,
+	"frictionMultiplier": 1.0,
 
 	"textureFiltering": false,
 	"disablePlayerLamp": true,

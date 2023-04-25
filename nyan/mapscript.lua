@@ -1,1 +1,0 @@
-Parent("map_ammocrate","rotator")
