@@ -41,36 +41,6 @@ d 1.000000
 illum 1
 map_Kd bedroom.png
 
-newmtl Book31Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd Book31_diff.png
-
-newmtl Book32Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd Book31_diff.png
-
-newmtl BookOld81Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd BookOld81_diff.png
-
 newmtl Brick
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -81,26 +51,6 @@ d 1.000000
 illum 2
 map_Kd brick.png
 
-newmtl ClayJug71Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd ClayJug51_diff.png
-
-newmtl Dec21Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd Dec21_diff.png
-
 newmtl ExitDoor.001
 Ns 198.039215
 Ka 1.000000 1.000000 1.000000
@@ -110,16 +60,6 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd ExitDoor.png
-
-newmtl FilmReel1Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-illum 2
-map_Kd FilmReel1_diff.png
-map_d FilmReel1_diff.png
 
 newmtl FurnitureHall.001
 Ns 198.039215
@@ -161,16 +101,6 @@ d 1.000000
 illum 1
 map_Kd garageDoor.png
 
-newmtl Gold.001
-Ns 94.117653
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd gold_cubemap.png
-
 newmtl Grass
 Ns 96.078415
 Ka 1.000000 1.000000 1.000000
@@ -211,16 +141,6 @@ d 1.000000
 illum 1
 map_Kd HouseBakedTexture1.png
 
-newmtl Junk_Truck_Rust_Texture_by_FoxStox.001
-Ns 198.039215
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Junk_Truck_Rust_Texture_by_FoxStox.png
-
 newmtl Kitchen.001
 Ns 94.117653
 Ka 1.000000 1.000000 1.000000
@@ -250,16 +170,6 @@ Ni 1.000000
 d 1.000000
 illum 1
 map_Kd kitchen.png
-
-newmtl Micro.001
-Ns 198.039215
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd Micro.png
 
 newmtl Old.001
 Ns 94.117653
@@ -291,36 +201,6 @@ d 1.000000
 illum 1
 map_Kd old.png
 
-newmtl Paintings.001
-Ns 94.117653
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd paintings.png
-
-newmtl PaperboxC1Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd PaperboxC1_diff.png
-
-newmtl PotteryCup21Mtl.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.062745 0.062745 0.062745
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd PotteryCup21_diff.png
-
 newmtl Rocky
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -340,16 +220,6 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd roof.png
-
-newmtl Rusty
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd Blue_Metal_Rusty_Patches_UV_CM_2.png
 
 newmtl StoneWall
 Ns 96.078415
@@ -380,26 +250,6 @@ Ni 1.000000
 d 1.000000
 illum 1
 map_Kd tiled.png
-
-newmtl Tires
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.232283 0.232283 0.232283
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd vignetteBlack.png
-
-newmtl Trees
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd tree_alphaharsh.png
 
 newmtl Tunna.001
 Ns 198.039215
@@ -451,16 +301,6 @@ d 1.000000
 illum 2
 map_Kd window.png
 
-newmtl Wood1.001
-Ns 94.117653
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd Roof2_diff.png
-
 newmtl Wood1_NONE
 Ns 94.117653
 Ka 1.000000 1.000000 1.000000
@@ -490,16 +330,6 @@ Ni 1.000000
 d 1.000000
 illum 1
 map_Kd swampy.png
-
-newmtl Wooden.001
-Ns 94.117653
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd Roof2_diff.png
 
 newmtl Wooden_NONE
 Ns 94.117653

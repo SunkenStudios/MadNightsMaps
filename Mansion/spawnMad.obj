@@ -1,0 +1,9 @@
+# Blender 3.4.0
+# www.blender.org
+mtllib spawnMad.mtl
+o Plane
+v -3.136465 5.039471 21.435928
+o Plane.001
+v 3.406159 1.470743 32.876995
+o Plane.002
+v 10.598213 1.415998 12.400893
