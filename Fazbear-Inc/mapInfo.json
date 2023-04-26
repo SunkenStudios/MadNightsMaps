@@ -1,0 +1,29 @@
+{
+	"fogColor": [0,0,8],
+	"fogStart": 0,
+	"fogEnd": 350,
+
+	"ambientColor": [8,3,0],
+	"sunColor": [80,35,5],
+
+	"speedMultiplier": 1.0,
+	"gravityMultiplier": 1.0,
+	"jumpMultiplier": 1.0,
+	"frictionMultiplier": 1.0,
+
+	"textureFiltering": true,
+	"disablePlayerLamp": false,
+
+	"farclipPlane": 410,
+	"deathPlane": 140,
+	
+	"roundTime": 140,
+	
+	"footstepType": "concrete",
+	"soundSource": [0,0,0],
+
+	"waterEnabled": true,
+	"waterLevel": 140,
+	
+	"outsideMap": false
+}
