@@ -1,0 +1,20 @@
+{
+  "car1": 
+  {
+    "meshName": "car1.obj",
+    "useCollision": true,
+    "deadly": true,
+    "platform": true,
+    "platformLoop": true,
+    "platformSpeed" : 7.0
+  },
+  "car2": 
+  {
+    "meshName": "car2.obj",
+    "useCollision": true,
+    "deadly": true,
+    "platform": true,
+    "platformLoop": true,
+    "platformSpeed" : 7.0
+  }
+}

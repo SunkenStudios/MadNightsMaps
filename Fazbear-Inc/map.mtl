@@ -1,4 +1,4 @@
-# Blender 3.5.0 MTL File: 'Fazbear_Inc_Map_Model.blend'
+# Blender 3.5.1 MTL File: 'Overhualed_Fazbear_Inc_Map_Model.blend'
 # www.blender.org
 
 newmtl FloorBrickTexture
@@ -29,9 +29,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd PipeCeilingTexture.png
+map_Kd NewPipeCeilingTexture.png
 
-newmtl PipeSideTexture
+newmtl Material.006
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -39,7 +39,57 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd PipeSideTexture.png
+map_Kd BarrelTopTexture.png
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BarrelSideBarTexture.png
+
+newmtl Material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd NewPipeSideTexture_alphaharsh.png
+
+newmtl Material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd PipeBendSideTexture_alphaharsh.png
+
+newmtl Material.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd PipeBendUpwardTexture_alphaharsh.png
+
+newmtl Material.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd GoldTexture.png
 
 newmtl WallBrickTexture
 Ns 250.000000

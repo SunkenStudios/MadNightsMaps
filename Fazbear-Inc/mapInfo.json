@@ -1,7 +1,7 @@
 {
 	"fogColor": [0,0,8],
 	"fogStart": 0,
-	"fogEnd": 350,
+	"fogEnd": 225,
 
 	"ambientColor": [8,3,0],
 	"sunColor": [80,35,5],
@@ -12,17 +12,17 @@
 	"frictionMultiplier": 1.0,
 
 	"textureFiltering": true,
-	"disablePlayerLamp": false,
+	"disablePlayerLamp": true,
 
-	"farclipPlane": 410,
+	"farclipPlane": 350,
 	"deathPlane": 140,
 	
-	"roundTime": 140,
+	"roundTime": 180,
 	
 	"footstepType": "concrete",
 	"soundSource": [0,0,0],
 
-	"waterEnabled": true,
+	"waterEnabled": false,
 	"waterLevel": 140,
 	
 	"outsideMap": false
