@@ -1,0 +1,40 @@
+{
+	"lava":
+	{
+		"meshName" : "lava.obj",
+		"useCollision" : true,
+		"deadly" : true
+	},
+	"water":
+	{
+		"meshName" : "water1.obj",
+		"useCollision" : false,
+		"trigger" : true,
+		"triggerWater" : true
+	},
+	"water2":
+	{
+		"meshName" : "water2.obj",
+		"useCollision" : false,
+		"trigger" : true,
+		"triggerWater" : true
+	},
+	"water3":
+	{
+		"meshName" : "water3.obj",
+		"useCollision" : false,
+		"trigger" : true,
+		"triggerWater" : true
+	},
+	"breakable":
+	{
+		"meshName" : "breakable.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"footstepSound" : "concrete",
+		"doorSound" : "wood_hit1.wav",
+		"breakablePoints" : 2,
+		"breakableDelay" : 300,
+		"breakableShoot" : true
+	}
+}
