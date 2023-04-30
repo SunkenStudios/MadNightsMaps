@@ -1,0 +1,15 @@
+{
+	"bounce" :
+	{
+		"meshName" : "bounce.obj",
+		"useCollision" : true,
+		"bounceForce" : 4.0
+	},
+	"sky" :
+	{
+		"meshName" : "sky.obj",
+		"useCollision" : false,
+		"rotator" : true,
+		"rotateSpeed" : 0.2
+	}
+}
