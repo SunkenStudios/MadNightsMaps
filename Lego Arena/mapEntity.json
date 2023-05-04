@@ -1,0 +1,10 @@
+{
+	"Crowd":
+	{
+		"meshName" : "stephens.obj",
+		"useCollision" : false,
+		"platform" : true,
+		"platformBounce" : true,
+		"platformSpeed" : 0.2
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"Red Boat":
+	{
+		"meshName" : "red.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"footstepSound" : "wood",
+		"doorSound" : "wood_hit1.wav",
+		"breakablePoints" : 15,
+		"breakableDelay" : 400,
+		"breakableShoot" : true
+	},
+	"Blue Boat":
+	{
+		"meshName" : "blue.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"footstepSound" : "wood",
+		"doorSound" : "wood_hit1.wav",
+		"breakablePoints" : 15,
+		"breakableDelay" : 400,
+		"breakableShoot" : true
+	},
+	"Plank":
+	{
+		"meshName" : "Plank.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"footstepSound" : "wood",
+		"doorSound" : "wood_hit1.wav",
+		"breakablePoints" : 16,
+		"breakableDelay" : 400,
+		"breakableShoot" : true
+	},
+	"redflinger":
+	{
+		"meshName" : "redflinger.obj",
+		"trigger" : true,
+		"triggerForce" : 25,
+		"triggerVector" : [20,72.2,92],
+		"triggerSound" : "explode_9.wav"
+	},
+	"blueflinger":
+	{
+		"meshName" : "blueflinger.obj",
+		"trigger" : true,
+		"triggerForce" : 25,
+		"triggerVector" : [20,72.2,-92],
+		"triggerSound" : "explode_9.wav"
+	},
+	"water" :
+	{
+		"meshName" : "water.obj",	
+		"useCollision" : false,
+		"platform" : true,
+		"platformLoop" : true,
+		"platformSpeed" : 0.1
+	},
+	"baseflinger":
+	{
+		"meshName" : "baseflinger.obj",
+		"trigger" : true,
+		"triggerForce" : 25,
+		"triggerVector" : [-36.8,90.2,0],
+		"triggerSound" : "explode_9.wav"
+	}
+}
