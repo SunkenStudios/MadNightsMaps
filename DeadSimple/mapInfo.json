@@ -3,6 +3,8 @@
 	"fogStart": 0,
 	"fogEnd": 15000,
 
+	"mapTag" : "Doom",
+	
 	"ambientColor": [45,45,45],
 	"sunColor": [90,90,90],
 

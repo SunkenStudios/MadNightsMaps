@@ -1,0 +1,82 @@
+# Blender 3.5.0 MTL File: 'Final_Circus.blend'
+# www.blender.org
+
+newmtl Bulbs
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/Flat Colors.jpg
+map_Ke textures/Flat Colors.jpg
+
+newmtl Flag_Decals
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textures/bannertri_alphaharsh_backface.png
+map_d textures/bannertri_alphaharsh_backface.png
+
+newmtl Foiliage
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textures/foilage_alphaharsh_backface.png
+map_d textures/foilage_alphaharsh_backface.png
+
+newmtl Metal
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/Metal_Base_color.jpg
+
+newmtl Popcorn_Buckets
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/Popcorn Buckets_Base_color.jpg
+
+newmtl Potato
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/Potatoe_Base_color.png
+
+newmtl Water
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd textures/pondwater_alphaharsh_backface.png
+map_d textures/pondwater_alphaharsh_backface.png
+
+newmtl Yellow
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd textures/Rope_Base_color.jpg

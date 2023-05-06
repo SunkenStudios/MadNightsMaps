@@ -2,6 +2,8 @@
 	"fogColor": [0,0,0],
 	"fogStart": 0,
 	"fogEnd": 490,
+	
+	"mapTag" : "Lego",
 
 	"ambientColor": [0,0,0],
 	"sunColor": [16,15,8],
