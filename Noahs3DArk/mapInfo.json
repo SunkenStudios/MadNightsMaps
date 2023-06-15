@@ -1,0 +1,31 @@
+{
+	"fogColor": [90,90,90],
+	"fogStart": 0,
+	"fogEnd": 10000,
+
+	"ambientColor": [90,90,90],
+	"sunColor": [90,90,90],
+
+	"mapTag" : "Doom",
+
+	"speedMultiplier": 1.3,
+	"gravityMultiplier": 1.0,
+	"jumpMultiplier": 1.0,
+	"frictionMultiplier": 1.0,
+
+	"textureFiltering": false,
+	"disablePlayerLamp": true,
+
+	"farclipPlane": 500,
+	"deathPlane": -20,
+	
+	"roundTime": 100,
+	
+	"footstepType": "wood",
+	"soundSource": [0,0,0],
+
+	"waterEnabled": false,
+	"waterLevel": 25,
+	
+	"outsideMap": true
+}
