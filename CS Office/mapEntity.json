@@ -1,0 +1,76 @@
+{
+	"Snow":
+	{
+		"meshName" : "snow.obj",
+		"useCollision" : true,
+		"footstepSound" : "sand"
+	},
+	"Fabric":
+	{
+		"meshName" : "fabric.obj",
+		"useCollision" : true,
+		"footstepSound" : "sand"
+	},
+	"Metal":
+	{
+		"meshName" : "metal.obj",
+		"useCollision" : true,
+		"footstepSound" : "metal"
+	},
+	"Wood":
+	{
+		"meshName" : "wood.obj",
+		"useCollision" : true,
+		"footstepSound" : "wood"
+	},
+	"Glass1":
+	{
+		"meshName" : "glass1.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"doorSound" : "glass_largesheet_break1.wav",
+		"breakablePoints" : 0,
+		"breakableDelay" : 0,
+		"breakableShoot" : true
+	},
+	"Glass2":
+	{
+		"meshName" : "glass2.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"doorSound" : "glass_largesheet_break2.wav",
+		"breakablePoints" : 0,
+		"breakableDelay" : 0,
+		"breakableShoot" : true
+	},
+	"Glass3":
+	{
+		"meshName" : "glass3.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"doorSound" : "glass_largesheet_break3.wav",
+		"breakablePoints" : 0,
+		"breakableDelay" : 0,
+		"breakableShoot" : true
+	},
+	"Glass4":
+	{
+		"meshName" : "glass4.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"doorSound" : "glass_largesheet_break2.wav",
+		"breakablePoints" : 0,
+		"breakableDelay" : 0,
+		"breakableShoot" : true
+	},
+	"Glass5":
+	{
+		"meshName" : "glass5.obj",
+		"useCollision" : true,
+		"breakable" : true,
+		"doorSound" : "glass_largesheet_break1.wav",
+		"breakablePoints" : 0,
+		"breakableDelay" : 0,
+		"breakableShoot" : true
+	}
+}

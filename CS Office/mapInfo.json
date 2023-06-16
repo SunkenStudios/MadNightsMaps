@@ -1,0 +1,31 @@
+{
+	"fogColor": [177,184,207],
+	"fogStart": 0,
+	"fogEnd": 600,
+
+	"mapTag" : "Mad Mystery",
+
+	"ambientColor": [20,20,20],
+	"sunColor": [100,100,100],
+
+	"speedMultiplier": 1.0,
+	"gravityMultiplier": 1.0,
+	"jumpMultiplier": 1.0,
+	"frictionMultiplier": 1.0,
+
+	"textureFiltering": false,
+	"disablePlayerLamp": false,
+
+	"farclipPlane": 2000,
+	"deathPlane": -100,
+	
+	"roundTime": 100,
+	
+	"footstepType": "concrete",
+	"soundSource": [0,0,0],
+
+	"waterEnabled": false,
+	"waterLevel": 25,
+	
+	"outsideMap": false
+}

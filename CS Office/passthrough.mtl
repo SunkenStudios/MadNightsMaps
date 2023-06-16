@@ -1,0 +1,24 @@
+# Blender MTL File: 'map.blend'
+# Material Count: 2
+
+newmtl material_127
+Ns 94.117650
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd entity\\texture\\office_material_127_alphaharsh.png
+
+newmtl material_153
+Ns 94.117650
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd entity\\texture\\office_material_153_alpha_backface.png
