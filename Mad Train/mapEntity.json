@@ -1,0 +1,17 @@
+{
+	"moving":
+	{
+		"meshName" : "moving.obj",
+		"useCollision" : true,
+		"platform" : true,
+		"platformLoop" : true,
+		"platformSpeed" : 3.0,
+		"deadly" : true
+	},
+	"crate":
+	{
+		"meshName" : "crate.obj",
+		"useCollision" : true,
+		"footstepSound" : "wood"
+	}
+}
